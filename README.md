@@ -33,6 +33,20 @@ uv
 
 re (built-in module)
 
+# Why Use uv?
+
+uv is a modern and fast Python package manager that helps in managing dependencies efficiently. It is an alternative to pip and venv and provides several benefits:
+
+Faster installation of dependencies compared to pip
+
+Lightweight virtual environments, making it more efficient
+
+Better dependency resolution, avoiding conflicts
+
+Cross-platform support with optimized performance
+
+Using uv, you can quickly set up a virtual environment and install required packages with minimal overhead.
+
 The application evaluates the password based on predefined security rules using regex.
 
 The strength of the password is displayed on the screen.   
