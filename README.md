@@ -1,8 +1,8 @@
-#Password Strength Meter
+# Password Strength Meter
 
 This is a simple Password Strength Meter built using Streamlit, uv, and re. The application helps users check the strength of their passwords based on various criteria such as length, presence of special characters, numbers, and uppercase letters.
 
-##Features
+## Features
 
 Real-time password strength analysis
 
@@ -13,7 +13,7 @@ Interactive UI built with Streamlit
 Simple and lightweight
 
 
-##Usage
+## Usage
 
 Run the Streamlit application using the following command:
 
