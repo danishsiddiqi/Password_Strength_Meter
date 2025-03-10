@@ -23,7 +23,7 @@ How It Works
 
 The user enters a password in the input field.
 
-##Requirements
+## Requirements
 
 Python 3.x
 
